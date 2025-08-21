@@ -17,7 +17,7 @@ https://colab.research.google.com/github/Zeenat101/marketing-campaign-analysis/b
 - `outputs/channel_summary.csv` — KPIs by source/medium/campaign  
 - `outputs/funnel_summary.csv` — funnel counts by stage  
 - `outputs/figures/cpa_by_channel.png`, `outputs/figures/conversion_rate_by_channel.png` — charts  
-- **Brief (PDF):** <paste your Google Drive “Anyone with the link can view” URL>
+- **Brief (PDF):** [View / Download](./Campaign_Performance_Brief.pdf)
 
 ## Run it
 Open in Colab (badge above) → **Runtime → Run all**. Results appear in `outputs/`.

@@ -6,9 +6,9 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 **Dataset:** synthetic, ~1,200 sessions over ~90 days.
 
 ## TL;DR (30-sec skim)
-- **Best paid channel by CPA:** TikTok / paid_social / remarketing — **$3.27 CPA**, CR ≈ **10%**.  
-- **Biggest funnel leak:** **Product → Cart ≈ 89.9%** drop.  
-- **Impact estimate:** Reallocate **$100** from Instagram paid social (**$5.91 CPA**) to TikTok remarketing (**$3.27 CPA**) → **~13–14 extra conversions** (small-scale assumption).
+- **$3.27 CPA** (TikTok remarketing) → **shift** budget from Instagram (**$5.91 CPA**).
+- **89.9% drop** at Product→Cart → **add** above-the-fold CTA + early shipping/returns + social proof.
+- **~13–14 extra conversions** per **$100** reallocated (TikTok vs Instagram) — small-scale estimate.
 
 <p align="center">
   <img src="outputs/figures/cpa_by_channel.png" alt="Top 10 channels by lowest CPA" width="600"><br>
@@ -23,10 +23,10 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 - **Brief (PDF):** [View / Download](./Campaign_Performance_Brief.pdf)
 
 ## Key findings
-- **Paid efficiency:** TikTok remarketing leads (**$3.27 CPA; CR ~10%**). Google Brand Search (spring_sale) is close (**$3.80 CPA**).  
-- **High-intent keyword:** Google CPC (newsletter) shows the **highest paid CR (~11.1%)** with solid CPA (**$4.88**).  
-- **Funnel friction:** **Product → Cart** is the largest drop (~90%). Likely CTA placement / shipping clarity / social proof issues.  
-- **2-week test plan:** shift a small % toward **TikTok remarketing + Google Brand/CPC**; monitor **incremental** lift & frequency.
+- **$3.27 CPA** on TikTok / paid_social / remarketing — **shift** small budget from Instagram (**$5.91 CPA**); monitor frequency & incremental lift over **1–2 weeks**.
+- **89.9% drop** at **Product → Cart** — **add** primary CTA above the fold; **show** shipping/returns early; **add** reviews/trust badges.
+- **11.1% CR** on **Google CPC (newsletter)** — **expand** keyword/ad-copy; **test** landing-page alignment.
+- **$3.80 CPA** on **Google Brand Search (spring_sale)** — **maintain** spend; **test** fresh creatives/copy for scalable volume.
 
 ## Run it (Colab)
 1. Open the notebook via the badge above.  

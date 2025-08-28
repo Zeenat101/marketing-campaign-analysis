@@ -16,7 +16,7 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 </p>
 
 ## What’s inside
-- `Project_1_Campaign_Analysis.ipynb` — full, runnable analysis notebook  
+- `Practice_Project_Campaign_Analysis.ipynb` — full, runnable analysis notebook  
 - `outputs/channel_summary.csv` — KPIs by source/medium/campaign  
 - `outputs/funnel_summary.csv` — funnel counts by stage  
 - `outputs/figures/cpa_by_channel.png`, `outputs/figures/conversion_rate_by_channel.png` — charts  

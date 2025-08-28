@@ -1,6 +1,6 @@
 # Marketing Campaign Analysis (Entry-Level Portfolio)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zeenat101/marketing-campaign-analysis/blob/main/Project_1_Campaign_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zeenat101/marketing-campaign-analysis/blob/main/Practice_Project_Campaign_Analysis.ipynb)
 
 Turn raw channel data into **actions** (budget shifts + funnel fixes) with Python in Colab.  
 **Dataset:** synthetic, ~1,200 sessions over ~90 days.

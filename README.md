@@ -33,6 +33,11 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 2. **Runtime → Run all.**  
 3. Results are written to `outputs/`.
 
+## Requirements
+- pandas
+- numpy
+- matplotlib
+
 ## Data & definitions
 - **Qualified session:** ≥2 pages or add-to-cart  
 - **CPA:** total cost ÷ purchases  
@@ -42,6 +47,9 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 - A/B test product-page CTA + shipping/returns messaging to reduce Product→Cart drop.  
 - Simplify checkout (wallets, fewer fields) to reduce Checkout→Purchase drop.  
 - Add a simple weekly pipeline to refresh the KPIs + brief.
+
+## License
+This project is licensed under the [MIT License](./LICENSE) — feel free to reuse with attribution.
 
 ---
 

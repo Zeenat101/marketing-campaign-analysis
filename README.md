@@ -20,7 +20,7 @@ Turn raw channel data into **actions** (budget shifts + funnel fixes) with Pytho
 - `outputs/channel_summary.csv` — KPIs by source/medium/campaign  
 - `outputs/funnel_summary.csv` — funnel counts by stage  
 - `outputs/figures/cpa_by_channel.png`, `outputs/figures/conversion_rate_by_channel.png` — charts  
-- **Brief (PDF):** [View / Download](./Campaign_Performance_Brief.pdf)
+- **Brief (PDF):** [View / Download](./Insight Brief — Campaign Performance.pdf)
 
 ## Key findings
 - **$3.27 CPA** on TikTok / paid_social / remarketing — **shift** small budget from Instagram (**$5.91 CPA**); monitor frequency & incremental lift over **1–2 weeks**.
